@@ -24,23 +24,29 @@ public class pythagoreanTriplets {
         }
 
         if(max == a){
-            if( a*a == b*b + c*c){
-                System.out.println("true");
-            }else{
-                System.out.println("false");
-            }
+            // if( a*a == b*b + c*c){
+            //     System.out.println("true");
+            // }else{
+            //     System.out.println("false");
+            // }
+            boolean flag = (a*a == (b*b + c*c));
+            System.out.println(flag);
         }else if(max == b){
-            if( b*b == a*a + c*c){
-                System.out.println("true");
-            }else{
-                System.out.println("false");
-            }
+            // if( b*b == a*a + c*c){
+            //     System.out.println("true");
+            // }else{
+            //     System.out.println("false");
+            // }
+            boolean flag = (b*b == (a*a + c*c));
+            System.out.println(flag);
         }else if(max == c){
-            if( c*c == b*b + a*a){
-                System.out.println("true");
-            }else{
-                System.out.println("false");
-            }
+            // if( c*c == b*b + a*a){
+            //     System.out.println("true");
+            // }else{
+            //     System.out.println("false");
+            // }
+            boolean flag = (c*c == (b*b + a*a));
+            System.out.println(flag);
         }
 
     }
