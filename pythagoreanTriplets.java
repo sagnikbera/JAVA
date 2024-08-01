@@ -49,6 +49,8 @@ public class pythagoreanTriplets {
             System.out.println(flag);
         }
 
+        sc.close();
+
     }
     
 }
