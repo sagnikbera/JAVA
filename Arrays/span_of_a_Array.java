@@ -8,6 +8,7 @@ import java.util.*;
  * 
  * https://www.youtube.com/watch?v=1SsXm5TI8W4&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk&index=94
  */
+
 public class span_of_a_Array {
 
     public static void main(String[] args) {
