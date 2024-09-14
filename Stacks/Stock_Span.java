@@ -11,3 +11,12 @@
 
 //using Next greater element on the left (which verient stors index)
 
+package JAVA.Stacks;
+
+/**
+ * Stock_Span
+ */
+public class Stock_Span {
+
+    
+}
