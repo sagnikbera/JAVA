@@ -1,4 +1,8 @@
 https://www.youtube.com/watch?v=bwHr9G5VIls
+<br>
+<h1>
+Input using BufferedReader and Scanner in Java , "thwors IOExeption"
+</h1>
 
 ```java
      System.out.println("Enter a number");
