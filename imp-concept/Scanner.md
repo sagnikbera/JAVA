@@ -20,6 +20,21 @@ in class "PrintStream"
 <br>
 object --> "out" , "in"
 </h3>
+<br>
+<br>
+<h4>
+System.in.read();
+<br>might throw an exception --> "IOException
+<br>
+```javapublic static void main(String a[]) thwors IOExeption{
+    //code
+    //here IOExeption is have to be used
+}
+public class Demo{
+
+}
+```
+</h4>
 
 
 ```java
