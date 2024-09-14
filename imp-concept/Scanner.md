@@ -30,7 +30,9 @@ object --> "out" , "in"
 System.in.read();
 <br>might throw an exception --> "IOException
 <br>
-```javapublic static void main(String a[]) thwors IOExeption{
+
+```java
+public static void main(String a[]) thwors IOExeption{
     //code
     //here IOExeption is have to be used
 }
