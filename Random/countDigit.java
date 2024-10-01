@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Random;
 
 /**
  * Count Digits in a Number

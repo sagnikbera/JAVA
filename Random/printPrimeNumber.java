@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Random;
 
 /**
  * Print all Prime Numbers till N

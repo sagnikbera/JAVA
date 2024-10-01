@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Random;
 
 /**
  * Digits of a number

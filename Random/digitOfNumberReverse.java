@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Random;
 
 /**
  * digit Of Number Reverse

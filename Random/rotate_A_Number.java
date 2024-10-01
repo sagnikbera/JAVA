@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Random;
 
 /**
  * rotate_A_Number

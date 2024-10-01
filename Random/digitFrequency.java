@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Random;
 
 /**
  * https://www.youtube.com/watch?v=U3VZNsMJpD4&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk&index=77
